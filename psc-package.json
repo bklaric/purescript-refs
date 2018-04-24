@@ -1,0 +1,8 @@
+{
+  "name": "purescript-refs",
+  "set": "master",
+  "source": "https://github.com/bklaric/package-sets.git",
+  "depends": [
+    "effect"
+  ]
+}

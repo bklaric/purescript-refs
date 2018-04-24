@@ -6,7 +6,7 @@
 -- | local scope.
 module Control.Monad.Effect.Ref where
 
-import Control.Monad.Effect (Effect)
+import Effect (Effect)
 import Prelude (Unit, unit)
 
 -- | A value of type `Ref a` represents a mutable reference
